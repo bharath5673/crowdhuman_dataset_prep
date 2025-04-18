@@ -1,0 +1,3 @@
+[submodule "yolov5-crowdhuman"]
+    path = yolov5-crowdhuman
+    url = https://github.com/bharath5673/yolov5-crowdhuman.git
